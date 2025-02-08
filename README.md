@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MongoDB aggregation pipelines that results in inaccurate data. The bug involves an incorrect use of the `$group` and `$sort` stages, leading to unexpected results. A solution is provided to correct the aggregation pipeline and produce the intended output.
